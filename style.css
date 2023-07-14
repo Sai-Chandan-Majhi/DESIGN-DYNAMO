@@ -9,7 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #444;
+  background: grey;
 }
 .container {
   position: relative;
@@ -47,7 +47,7 @@ form.sign-in-form {
 }
 .title {
   font-size: 35px;
-  color: #df4adf;
+  color: cornflowerblue;
   margin-bottom: 10px;
 }
 .input-field {
@@ -55,7 +55,7 @@ form.sign-in-form {
   height: 50px;
   background: #f0f0f0;
   margin: 10px 0;
-  border: 2px solid #df4adf;
+  border: 2px solid cornflowerblue;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -81,7 +81,7 @@ form.sign-in-form {
   height: 50px;
   border: none;
   border-radius: 50px;
-  background: #df4adf;
+  background: cornflowerblue;
   color: #fff;
   font-weight: 600;
   margin: 10px 0;
@@ -89,14 +89,14 @@ form.sign-in-form {
   cursor: pointer;
 }
 .btn:hover {
-  background: #c03cc0;
+  background: cornflowerblue;
 }
-.signup{
-    margin: 50px;
+.signup {
+  margin: 50px;
 }
 a {
   text-decoration: none;
-  color: #df4adf;
+  color: cornflowerblue;
 }
 .content {
   color: #fff;
